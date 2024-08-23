@@ -21,4 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imnilesh18&show_icons=true&locale=en" alt="imnilesh18" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imnilesh18&" alt="imnilesh18" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imnilesh18" alt="imnilesh18" /></p>
