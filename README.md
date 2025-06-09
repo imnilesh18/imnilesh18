@@ -53,6 +53,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=imnilesh18&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=imnilesh18&theme=tokyonight" alt="Streak Stats" />
+  &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imnilesh18&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=imnilesh18&theme=tokyonight" alt="Streak Stats" />
 </p>
