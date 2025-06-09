@@ -1,24 +1,58 @@
 <h1 align="center">Hi 👋, I'm Nilesh Kumar</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imnilesh18&label=Profile%20views&color=0e75b6&style=flat" alt="imnilesh18" /> </p>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
-<p align="left"> <a href="https://twitter.com/imnilesh18_" target="blank"><img src="https://img.shields.io/twitter/follow/imnilesh18_?logo=twitter&style=for-the-badge" alt="imnilesh18_" /></a> </p>
+<h3 align="center">Coder | Learner | Problem Solver</h3>
 
-- 🌱 I’m currently learning **Python, Web Development**
-
-- 📝 I regularly write articles on [https://twitter.com/imnilesh18_](https://twitter.com/imnilesh18_)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/imnilesh18_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imnilesh18_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nilesh-kumar-519a19249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nilesh-kumar-519a19249" height="30" width="40" /></a>
-<a href="https://instagram.com/imnilesh18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imnilesh18" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=imnilesh18&label=Profile%20views&color=0e75b6&style=flat" alt="imnilesh18" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<div align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Passionate+about+Tech+%7C+Coding+%7C+Open+Source;MERN+Stack+Enthusiast;Data+Structures+%26+Algorithms;Python+%7C+Automation+%7C+DevOps"
+    alt="Typing SVG"
+  />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imnilesh18&show_icons=true&locale=en&layout=compact" alt="imnilesh18" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imnilesh18&show_icons=true&locale=en" alt="imnilesh18" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imnilesh18" alt="imnilesh18" /></p>
+---
+
+### 🧠 About Me
+- 💻 Passionate coder mastering **DSA**, **DevOps**, **MERN** and **Python**— always exploring new tools and workflows  
+- 📚 Lifelong learner: I believe in learning something new every day  
+- 🧩 Deep problem-solver with a focus on **Data Structures**, **Algorithms** and clean, maintainable code  
+- ☁️ Exploring cloud technologies (AWS, Azure, Docker, Ansible, Terraform) and designing scalable architectures  
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/nilesh-kumar-519a19249" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+  </a>
+  <a href="https://twitter.com/imnilesh18_" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" width="40" />
+  </a>
+  <a href="https://instagram.com/imnilesh18" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Skills & Tools
+
+<p align="left">
+  <!-- All-in-one Skill Icons -->
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,php,html,css,jquery,react,bootstrap,tailwind,django,flask,nodejs,express,mysql,sqlite,mongodb,vercel,nginx,docker,ansible,aws,azure,bash,powershell,linux,ubuntu,git,github,postman,npm,vite,tensorflow,anaconda,vscode,pycharm,sublime,idea,eclipse,ae,ai,pr,ps" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imnilesh18&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=imnilesh18&theme=tokyonight" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imnilesh18&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
