@@ -45,7 +45,7 @@
 <p align="left">
   <!-- All-in-one Skill Icons -->
   <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,php,html,css,jquery,react,bootstrap,tailwind,django,flask,nodejs,express,mysql,sqlite,mongodb,vercel,nginx,docker,ansible,aws,azure,bash,powershell,linux,ubuntu,git,github,postman,npm,vite,tensorflow,anaconda,vscode,pycharm,sublime,idea,eclipse,ae,ai,pr,ps" />
-</p>
+</p> 
 
 ---
 
