@@ -57,5 +57,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imnilesh18&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=imnilesh18&theme=tokyonight" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=imnilesh18&theme=dracula&hide_border=true" alt="Modern Streak Stats" />
 </p>
