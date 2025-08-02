@@ -52,10 +52,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imnilesh18&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imnilesh18&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <a href="https://github.com/imnilesh18">
+    <img src="https://github-readme-stats.vercel.app/api?username=imnilesh18&show_icons=true&theme=aura&count_private=true&include_all_commits=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Nilesh's GitHub Stats" />
+  </a>
+  <a href="https://github.com/imnilesh18">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imnilesh18&layout=compact&theme=aura&hide_border=true" alt="Top Languages" />
+  </a>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=imnilesh18&theme=dracula&hide_border=true" alt="Modern Streak Stats" />
+  <a href="https://github.com/imnilesh18">
+    <img src="https://streak-stats.demolab.com?user=imnilesh18&theme=aura&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
